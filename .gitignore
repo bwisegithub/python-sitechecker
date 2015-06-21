@@ -6,4 +6,5 @@ build/
 dist/
 *.egg-info/
 
-tests/my_url_list
+tests/my_url_list*
+
