@@ -1,0 +1,9 @@
+.DS_Store
+
+*.pyc
+
+build/
+dist/
+*.egg-info/
+
+tests/my_url_list

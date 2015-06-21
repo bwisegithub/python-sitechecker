@@ -1,0 +1,941 @@
+
+www.loveandlemons.com
+_____________________
+
+                                  WOT SCORECARD RESULTS
+
+Server location: United States
+Trustworthiness: Good
+Child safety: Excellent
+
+
+                           SUCURI SECURITY SITE CHECK RESULTS
+
+Scan Results:
+Malware: Not Detected (Low Risk)
+Website Blacklisting: Not Detected (Low Risk)
+Website Firewall: Not Found (Medium Risk)
+Website Outdated: Detected (High)
+
+Blacklist Results:
+Domain clean by Google Safe Browsing: loveandlemons.com
+Domain clean by Norton Safe Web: loveandlemons.com
+Domain clean on Phish tank: loveandlemons.com
+Domain clean on the Opera browser: loveandlemons.com
+Domain clean by SiteAdvisor: loveandlemons.com
+Domain clean by the Sucuri Malware Labs blacklist: loveandlemons.com
+Domain clean on SpamHaus DBL: loveandlemons.com
+Domain clean by Bitdefender: loveandlemons.com
+Domain clean on Yandex (via Sophos): loveandlemons.com
+Domain clean by ESET: loveandlemons.com
+
+Website Details:
+Scan for: http://www.loveandlemons.com
+Hostname: www.loveandlemons.com
+IP address: 69.195.87.90
+System Details:
+Running on: Apache
+Powered by:  W3
+Web application details:
+Application: WordPress 4.1.5 - http://www.wordpress.org
+Running cPanel 11.44.2.4:  www.loveandlemons.com:2082
+Web application version:
+WordPress version:  WordPress 4.1.5
+Wordpress version from source: 4.1.5
+Wordpress Version 4.1 based on: http://www.loveandlemons.com/wp-includes/js/autosave.js
+WordPress theme:  http://d1wcgy4dy6voh7.cloudfront.net/wp-content/themes/loveandlemons3/
+WordPress version outdated:  Upgrade required.
+Outdated WordPress Found: WordPress Under 4.2
+
+List of Links Found to Other Domains or Sub Domains:
+
+List of Scripts Included:
+http://www.loveandlemons.com/wp-content/cache/minify/000000/jY5bEoIwDEU3RFqZ6nqctgYI0odNENm9lWH0U_5uJvfkxOjxMWNZG7MHCNQXK6gCxabVmaJgQRaoCUjAzSIpQpcKULA9ss6ZXEfXb7NSFFlsPRO23pLKLdcN65F3i0LLFHtolVHZ-vshxq9-QjWRYOUu-4P_sc5Gv7r02mTn47qQZsZlQJzAqNOPdFb8ENITP91teAM.js
+http://www.loveandlemons.com/wp-content/cache/minify/000000/M9TPycvRLUotLsjPK84sS9XNzE1MT9VNL8pMwS0DAA.js
+http://www.loveandlemons.com/wp-content/cache/minify/000000/Zc5LDsIwDATQC6U1UU8UEguM3DjYDiicnoou-C3fzCwmAlee7CzqWQoaXK4ddcycHoMllRB_B2RZhXlicvxvvxkOwHLDVAvjKtWWvc9KzcMCnSCL4rxS3XWnckJ_-9jdpb4cAZMNxUwNG_ftqH0kTw.js
+http://www.loveandlemons.com/wp-content/cache/minify/000000/M9RPzs8rSUwu0U3LL8rVNdfPzEvOKU1JLdbPAqLC0tSiSj2QjF5uZh4A.js
+http://www.loveandlemons.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=3.9
+http://d1wcgy4dy6voh7.cloudfront.net/wp-content/themes/loveandlemons3/js/html5.js
+
+
+                            GOOGLE PAGESPEED INSIGHTS RESULTS
+
+PageSpeed score: 79 / 100
+
+Page stats:
+totalRequestBytes: 8589
+numberCssResources: 4
+javascriptResponseBytes: 262211
+cssResponseBytes: 163535
+imageResponseBytes: 7176316
+numberResources: 70
+numberHosts: 7
+numberStaticResources: 59
+htmlResponseBytes: 45772
+numberJsResources: 8
+
+Rules negatively impacting score:
+Minify HTML: 0.1033
+Eliminate render-blocking JavaScript and CSS in above-the-fold content: 8.0
+Enable compression: 0.0
+Reduce server response time: 0.0
+Minify CSS: 0.6369
+Leverage browser caching: 1.98511904762
+Avoid landing page redirects: 0.0
+Optimize images: 13.9377
+Prioritize visible content: 0.0
+Minify JavaScript: 0.5422
+
+
+                              W3 MARKUP VALIDATION RESULTS
+
+errorcount: 4
+
+(info) Line 46: Column 46.  The language attribute on the script element is obsolete. Yo ...
+(info) Line 66: Column 66.  The language attribute on the script element is obsolete. Yo ...
+(error) Line 219: Column 219.  script element between head and body.
+(error) Line 219: Column 219.  Cannot recover after last error. Any further errors will be  ...
+
+
+                               W3 CSS3 VALIDATION RESULTS
+
+
+errorcount: 72
+warningcount: 108
+
+Source: http://www.loveandlemons.com/wp-content/cache/minify/000000/dY9BDsMwCAQ_VORUPfQ91CaOJYwtQxLl96WJ1EOlHtlll2EK3DZCSUy1iT6C2sF0m37luYnpZepCZLd7KKKGeWCFuQ3Y20h9kGrY-9fxrYMMUJotNGAQo1GC3tQUOq-5yNUZ9pLy2fpCi0v14yF61zm5ysKe1u4sZSMoFTNBHiX9dzwVHRqjffgqPB048ppIz-brlTc.css
+(error) Line 1526.  attempt to find a semi-colon before the property name. add i ...
+(error) Line 1526.  Property progid doesn't exist : 
+(error) Line 1526.  Parse Error
+(error) Line 1527.  Parse Error
+(error) Line 1527.  Parse Error
+(error) Line 1527.  Parse Error
+(error) Line 1527.  Parse Error
+(error) Line 1527.  Parse Error
+(error) Line 1527.  Parse Error
+(error) Line 1527.  Parse Error
+(More than 10 results.  Displayed first 10.)
+
+
+smittenkitchen.com
+__________________
+
+                                  WOT SCORECARD RESULTS
+
+Server location: United States
+Trustworthiness: Excellent
+Child safety: Excellent
+
+
+                           SUCURI SECURITY SITE CHECK RESULTS
+
+Scan Results:
+Malware: Not Detected (Low Risk)
+Website Blacklisting: Not Detected (Low Risk)
+Injected SPAM: Not Detected (Low Risk)
+Defacements: Not Detected (Low Risk)
+
+Blacklist Results:
+Domain clean by Google Safe Browsing: smittenkitchen.com
+Domain clean by Norton Safe Web: smittenkitchen.com
+Domain clean on Phish tank: smittenkitchen.com
+Domain clean on the Opera browser: smittenkitchen.com
+Domain clean by SiteAdvisor: smittenkitchen.com
+Domain clean by the Sucuri Malware Labs blacklist: smittenkitchen.com
+Domain clean on SpamHaus DBL: smittenkitchen.com
+Domain clean by Bitdefender: smittenkitchen.com
+Domain clean on Yandex (via Sophos): smittenkitchen.com
+Domain clean by ESET: smittenkitchen.com
+
+Website Details:
+Scan for: http://smittenkitchen.com
+Hostname: smittenkitchen.com
+IP address: 141.101.123.139 (CloudFlare)
+System Details:
+Running on: cloudflare-nginx
+Web application details:
+Application: smitten, smittenkitchen, cooking, baking, recipes, deb perelman, gulletry, photography, food, decadence, food essays, new york city
+Web application version:
+WordPress version:  WordPress
+Wordpress version from source: 4.1.5
+Wordpress Version 4.1 based on: http://smittenkitchen.com/wp-includes/js/autosave.js
+WordPress directory:  http://smittenkitchen.com/wp-content
+WordPress theme:  http://smittenkitchen.com/wp-content/themes/orchids/
+
+List of Links Found to Other Domains or Sub Domains:
+
+List of Scripts Included:
+http://smittenkitchen.com/wp-includes/js/jquery/jquery.js?ver=1.11.1
+http://smittenkitchen.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1
+http://smittenkitchen.com/wp-content/plugins/wp-email/email-js.js?ver=2.63
+http://smittenkitchen.com/wp-content/plugins/zero-spam/build/js/zero-spam.min.js?ver=1.1.0
+http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en
+http://ads.saymedia.com/ai0163008972ec970d0168e6809dac970c.js?ord=
+http://ads.saymedia.com/ai0163008972ec970d01cdea213000c80a.js?ord=
+
+
+                            GOOGLE PAGESPEED INSIGHTS RESULTS
+
+PageSpeed score: 82 / 100
+
+Page stats:
+otherResponseBytes: 3385
+totalRequestBytes: 10276
+numberCssResources: 2
+javascriptResponseBytes: 996809
+cssResponseBytes: 9869
+imageResponseBytes: 1101677
+numberResources: 70
+numberHosts: 24
+numberStaticResources: 38
+htmlResponseBytes: 50066
+numberJsResources: 30
+
+Rules negatively impacting score:
+Minify HTML: 0.0768
+Eliminate render-blocking JavaScript and CSS in above-the-fold content: 6.0
+Enable compression: 0.0
+Reduce server response time: 0.0
+Minify CSS: 0.0
+Leverage browser caching: 3.4779265873
+Avoid landing page redirects: 0.0
+Optimize images: 10.973
+Prioritize visible content: 0.0
+Minify JavaScript: 0.1907
+
+
+                              W3 MARKUP VALIDATION RESULTS
+
+errorcount: 35
+
+(error) Line 14: Column 14.  end tag for "meta" omitted, but OMITTAG NO was specified
+(info) Line 14: Column 14.  start tag was here
+(error) Line 22: Column 22.  required attribute "type" not specified
+(error) Line 141: Column 141.  document type does not allow element "p" here; missing one o ...
+(error) Line 141: Column 141.  document type does not allow element "center" here; missing  ...
+(error) Line 151: Column 151.  end tag for "p" omitted, but OMITTAG NO was specified
+(info) Line 138: Column 138.  start tag was here
+(error) Line 171: Column 171.  end tag for "p" omitted, but OMITTAG NO was specified
+(info) Line 167: Column 167.  start tag was here
+(error) Line 191: Column 191.  end tag for "p" omitted, but OMITTAG NO was specified
+(More than 10 results.  Displayed first 10.)
+
+
+                               W3 CSS3 VALIDATION RESULTS
+
+
+errorcount: 2
+warningcount: 10
+
+Source: http://smittenkitchen.com/wp-content/themes/orchids/style.css
+(error) Line 113.  Parse Error
+(error) Line 320.  Property align doesn't exist : 
+
+
+google.com
+__________
+
+                                  WOT SCORECARD RESULTS
+
+Server location: Europe
+Trustworthiness: Excellent
+Child safety: Excellent
+
+
+                           SUCURI SECURITY SITE CHECK RESULTS
+
+Scan Results:
+Malware: Not Detected (Low Risk)
+Website Blacklisting: Not Detected (Low Risk)
+Injected SPAM: Not Detected (Low Risk)
+Defacements: Not Detected (Low Risk)
+
+Blacklist Results:
+Domain clean by Google Safe Browsing: google.com
+Domain clean by Norton Safe Web: google.com
+Domain clean on Phish tank: google.com
+Domain clean on the Opera browser: google.com
+Domain clean by SiteAdvisor: google.com
+Domain clean by the Sucuri Malware Labs blacklist: google.com
+Domain clean on SpamHaus DBL: google.com
+Domain clean by Bitdefender: google.com
+Domain clean on Yandex (via Sophos): google.com
+Domain clean by ESET: google.com
+
+Website Details:
+Scan for: https://www.google.com/?gws_rd=ssl
+Hostname: www.google.com
+IP address: 173.194.121.4
+System Details:
+Running on: gws
+
+List of Links Found to Other Domains or Sub Domains:
+https://plus.google.com/?gpsrc=ogpy0&tab=wX
+https://maps.google.com/maps?hl=en&tab=wl
+https://play.google.com/?hl=en&tab=w8
+https://news.google.com/nwshp?hl=en&tab=wn
+https://mail.google.com/mail/?tab=wm
+https://drive.google.com/?tab=wo
+https://translate.google.com/?hl=en&tab=wT
+https://books.google.com/bkshp?hl=en&tab=wp
+https://wallet.google.com/manage/?tab=wa
+(More than 10 results.  Displayed first 10.)
+
+List of Scripts Included:
+
+
+                            GOOGLE PAGESPEED INSIGHTS RESULTS
+
+PageSpeed score: 92 / 100
+
+Page stats:
+otherResponseBytes: 1752
+totalRequestBytes: 2732
+imageResponseBytes: 41789
+javascriptResponseBytes: 822097
+numberResources: 13
+numberHosts: 5
+numberStaticResources: 9
+htmlResponseBytes: 162442
+numberJsResources: 5
+
+Rules negatively impacting score:
+Minify HTML: 0.0
+Eliminate render-blocking JavaScript and CSS in above-the-fold content: 0.0
+Enable compression: 0.0
+Reduce server response time: 0.0
+Minify CSS: 0.0
+Leverage browser caching: 0.0
+Avoid landing page redirects: 7.0
+Optimize images: 0.0
+Prioritize visible content: 0.0
+Minify JavaScript: 0.2402
+
+
+                              W3 MARKUP VALIDATION RESULTS
+
+errorcount: 30
+
+(info) Line : Column .  Using windows-1252 instead of the declared encoding iso-8859 ...
+(info) Line : Column .  Legacy encoding windows-1252 used. Documents should use UTF- ...
+(error) Line 2: Column 2.  The bgcolor attribute on the body element is obsolete. Use C ...
+(error) Line 5: Column 5.  Element nobr not allowed as child of element div in this con ...
+(error) Line 5: Column 5.  &amp; did not start a character reference. (&amp; probably s ...
+(error) Line 5: Column 5.  &amp; did not start a character reference. (&amp; probably s ...
+(error) Line 5: Column 5.  &amp; did not start a character reference. (&amp; probably s ...
+(error) Line 5: Column 5.  &amp; did not start a character reference. (&amp; probably s ...
+(error) Line 5: Column 5.  Attribute width not allowed on element div at this point.
+(error) Line 5: Column 5.  Element nobr not allowed as child of element div in this con ...
+(More than 10 results.  Displayed first 10.)
+
+
+                               W3 CSS3 VALIDATION RESULTS
+
+
+errorcount: 10
+warningcount: 14
+
+Source: http://www.google.com/
+(error) Line .  inline-box is not a display value : 
+(error) Line .  top is not a color value
+(error) Line .  attempt to find a semi-colon before the property name. add i ...
+(error) Line .  Property progid doesn't exist : 
+(error) Line .  Parse Error
+(error) Line .  top is not a color value
+(error) Line .  attempt to find a semi-colon before the property name. add i ...
+(error) Line .  Property progid doesn't exist : 
+(error) Line .  Parse Error
+(error) Line 5.  Property behavior doesn't exist : 
+
+
+adriatic.com
+____________
+
+                                  WOT SCORECARD RESULTS
+
+Server location: Italy
+Trustworthiness: Unsatisfactory
+Child safety: Poor
+
+
+                           SUCURI SECURITY SITE CHECK RESULTS
+
+Scan Results:
+Malware: Not Detected (Low Risk)
+Website Blacklisting: Not Detected (Low Risk)
+Website Firewall: Not Found (Medium Risk)
+Website Outdated: Detected (High)
+
+Blacklist Results:
+Domain clean by Google Safe Browsing: adriatic.net
+Domain clean by Norton Safe Web: adriatic.net
+Domain clean on Phish tank: adriatic.net
+Domain clean on the Opera browser: adriatic.net
+Domain clean by SiteAdvisor: adriatic.net
+Domain clean by the Sucuri Malware Labs blacklist: adriatic.net
+Domain clean on SpamHaus DBL: adriatic.net
+Domain clean by Bitdefender: adriatic.net
+Domain clean on Yandex (via Sophos): adriatic.net
+Domain clean by ESET: adriatic.net
+
+Website Details:
+Scan for: http://www.adriatic.net/adriatic/hotel-residence-garny/
+Hostname: www.adriatic.net
+IP address: 213.152.194.97
+System Details:
+Running on: Apache/1.3.28
+Powered by:  PHP/4.3.1
+Web application details:
+Application: NotePad
+Outdated Web Server Apache Found: Apache/1.3.28
+
+List of Links Found to Other Domains or Sub Domains:
+http://www.adriatic.net
+http://golf.adriatic.net
+http://www.adriatic.net/webmail
+
+List of Scripts Included:
+http://www.adriatic.net/stats/php-stats.js.php
+http://www.google-analytics.com/urchin.js
+http://www.specialstat.com/logo.asp?utente=12637
+
+
+                            GOOGLE PAGESPEED INSIGHTS RESULTS
+
+PageSpeed score: 64 / 100
+
+Page stats:
+otherResponseBytes: 1017
+totalRequestBytes: 9097
+numberCssResources: 2
+javascriptResponseBytes: 23035
+cssResponseBytes: 14771
+imageResponseBytes: 220895
+numberResources: 82
+numberHosts: 5
+numberStaticResources: 69
+htmlResponseBytes: 65029
+numberJsResources: 1
+
+Rules negatively impacting score:
+Minify HTML: 0.6328
+Eliminate render-blocking JavaScript and CSS in above-the-fold content: 6.0
+Enable compression: 6.2959
+Reduce server response time: 0.0
+Minify CSS: 0.2879
+Leverage browser caching: 33.5
+Avoid landing page redirects: 7.0
+Optimize images: 2.0411
+Prioritize visible content: 2.0
+Minify JavaScript: 0.0975
+
+
+                              W3 MARKUP VALIDATION RESULTS
+
+errorcount: 166
+
+(info) Line 13: Column 13.  NET-enabling start-tag requires SHORTTAG YES
+(error) Line 14: Column 14.  document type does not allow element "META" here
+(error) Line 15: Column 15.  document type does not allow element "META" here
+(error) Line 16: Column 16.  document type does not allow element "META" here
+(error) Line 17: Column 17.  document type does not allow element "META" here
+(error) Line 20: Column 20.  document type does not allow element "LINK" here
+(error) Line 21: Column 21.  document type does not allow element "LINK" here
+(error) Line 67: Column 67.  end tag for element "HEAD" which is not open
+(error) Line 69: Column 69.  document type does not allow element "BODY" here
+(error) Line 82: Column 82.  document type does not allow element "P" here; missing one o ...
+(More than 10 results.  Displayed first 10.)
+
+
+                               W3 CSS3 VALIDATION RESULTS
+
+
+errorcount: 1
+warningcount: 0
+
+Source: http://www.adriatic.net/adriatic/hotel-residence-garny/generali/n-struttura/adriaticstyle.css
+(error) Line 2.  url('/adriatic/hotel-residence-garny/generali/n-struttura/ku ...
+
+
+thevanillabeanblog.com
+______________________
+
+                                  WOT SCORECARD RESULTS
+
+Server location: Unknown
+Trustworthiness: Unknown
+Child safety: Unknown
+
+
+                           SUCURI SECURITY SITE CHECK RESULTS
+
+Scan Results:
+Malware: Not Detected (Low Risk)
+Website Blacklisting: Not Detected (Low Risk)
+Website Firewall: Not Found (Medium Risk)
+Website Outdated: Detected (High)
+
+Blacklist Results:
+Domain clean by Google Safe Browsing: thevanillabeanblog.com
+Domain clean by Norton Safe Web: thevanillabeanblog.com
+Domain clean on Phish tank: thevanillabeanblog.com
+Domain clean on the Opera browser: thevanillabeanblog.com
+Domain clean by SiteAdvisor: thevanillabeanblog.com
+Domain clean by the Sucuri Malware Labs blacklist: thevanillabeanblog.com
+Domain clean on SpamHaus DBL: thevanillabeanblog.com
+Domain clean by Bitdefender: thevanillabeanblog.com
+Domain clean on Yandex (via Sophos): thevanillabeanblog.com
+Domain clean by ESET: thevanillabeanblog.com
+
+Website Details:
+Scan for: http://thevanillabeanblog.com
+Hostname: thevanillabeanblog.com
+IP address: 67.225.236.100
+System Details:
+Running on: Apache/2.2.23
+Powered by:  PHP/5.4.9
+Web application details:
+Application: WordPress 4.2.2 - http://www.wordpress.org
+Running cPanel 11.44.3.5:  thevanillabeanblog.com:2082
+Web application version:
+WordPress version:  WordPress 4.2.2
+Wordpress version from source: 4.2.2
+Wordpress Version 4.2 based on: http://thevanillabeanblog.com/wp-admin/js/common.js
+WordPress directory:  http://thevanillabeanblog.com/wp-content
+WordPress theme:  http://thevanillabeanblog.com/wp-content/themes/sarahstheme/
+Outdated Web Server Apache Found: Apache/2.2.23
+
+List of Links Found to Other Domains or Sub Domains:
+http://feedly.com/i/subscription/feed/http://thevanillabeanblog.com/feed
+http://dev.thevanillabeanblog.com/?feed=rss2
+
+List of Scripts Included:
+http://thevanillabeanblog.com/wp-includes/js/jquery/jquery.js?ver=1.11.2
+http://thevanillabeanblog.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1
+http://thevanillabeanblog.com/wp-includes/js/jquery/jquery.color.min.js?ver=2.1.1
+http://thevanillabeanblog.com/wp-content/plugins/ultimate-social-deux/public/assets/js/script-ck.js?ver=3.1.6
+http://thevanillabeanblog.com/wp-content/plugins/mobile-menu/jquery.mobile-menu.min.js?ver=4.2.2
+http://thevanillabeanblog.com/wp-content/plugins/ziplist-recipe-plugin/zlrecipe_print.js
+http://thevanillabeanblog.com/wp-content/plugins/dynamic-to-top/js/libs/jquery.easing.js?ver=1.3
+http://thevanillabeanblog.com/wp-content/plugins/dynamic-to-top/js/dynamic.to.top.min.js?ver=3.4.2
+http://thevanillabeanblog.com/wp-content/plugins/mad-mimi-sign-up-forms/js/mimi.js?ver=1.1
+(More than 10 results.  Displayed first 10.)
+
+
+                            GOOGLE PAGESPEED INSIGHTS RESULTS
+
+PageSpeed score: 42 / 100
+
+Page stats:
+otherResponseBytes: 137862
+totalRequestBytes: 15173
+numberCssResources: 14
+javascriptResponseBytes: 329989
+cssResponseBytes: 348459
+imageResponseBytes: 4120677
+numberResources: 107
+numberHosts: 9
+numberStaticResources: 66
+htmlResponseBytes: 87468
+numberJsResources: 36
+
+Rules negatively impacting score:
+Minify HTML: 0.0885
+Eliminate render-blocking JavaScript and CSS in above-the-fold content: 18.0
+Enable compression: 0.0
+Reduce server response time: 10.6
+Minify CSS: 0.5308
+Leverage browser caching: 31.4866071429
+Avoid landing page redirects: 0.0
+Optimize images: 93.3137
+Prioritize visible content: 0.0
+Minify JavaScript: 0.3755
+
+
+                              W3 MARKUP VALIDATION RESULTS
+
+errorcount: 62
+
+(error) Line 92: Column 92.  The charset attribute on the link element is obsolete. Use a ...
+(info) Line 230: Column 230.  Section lacks heading. Consider using h2-h6 elements to add  ...
+(info) Line 240: Column 240.  Section lacks heading. Consider using h2-h6 elements to add  ...
+(error) Line 259: Column 259.  Element hgroup not allowed as child of element section in th ...
+(error) Line 259: Column 259.  The hgroup element is obsolete. To mark up subheadings, cons ...
+(info) Line 259: Column 259.  Section lacks heading. Consider using h2-h6 elements to add  ...
+(info) Line 259: Column 259.  Section lacks heading. Consider using h2-h6 elements to add  ...
+(info) Line 259: Column 259.  Article lacks heading. Consider using h2-h6 elements to add  ...
+(error) Line 278: Column 278.  Element hgroup not allowed as child of element section in th ...
+(error) Line 278: Column 278.  The hgroup element is obsolete. To mark up subheadings, cons ...
+(More than 10 results.  Displayed first 10.)
+
+
+                               W3 CSS3 VALIDATION RESULTS
+
+
+errorcount: 936
+warningcount: 979
+
+Source: http://thevanillabeanblog.com/wp-content/plugins/ba-shortcodes/css/style.min.css?ver=4.2.2
+(error) Line 1.  Parse Error
+(error) Line 1.  top is not a color value
+(error) Line 1.  top is not a color value
+(error) Line 1.  attempt to find a semi-colon before the property name. add i ...
+(error) Line 1.  Property progid doesn't exist : 
+(error) Line 1.  Parse Error
+(error) Line 1.  Unknown pseudo-element or pseudo-class :inset
+(error) Line 1.  Unrecognized 
+(error) Line 1.  top is not a color value
+(error) Line 1.  attempt to find a semi-colon before the property name. add i ...
+(More than 10 results.  Displayed first 10.)
+
+
+iamafoodblog.com
+________________
+
+                                  WOT SCORECARD RESULTS
+
+Server location: United States
+Trustworthiness: Good
+Child safety: Excellent
+
+
+                           SUCURI SECURITY SITE CHECK RESULTS
+
+Scan Results:
+Malware: Not Detected (Low Risk)
+Website Blacklisting: Not Detected (Low Risk)
+Injected SPAM: Not Detected (Low Risk)
+Defacements: Not Detected (Low Risk)
+Website Firewall: Not Found (Medium Risk)
+
+Blacklist Results:
+Domain clean by Google Safe Browsing: iamafoodblog.com
+Domain clean by Norton Safe Web: iamafoodblog.com
+Domain clean on Phish tank: iamafoodblog.com
+Domain clean on the Opera browser: iamafoodblog.com
+Domain clean by SiteAdvisor: iamafoodblog.com
+Domain clean by the Sucuri Malware Labs blacklist: iamafoodblog.com
+Domain clean on SpamHaus DBL: iamafoodblog.com
+Domain clean by Bitdefender: iamafoodblog.com
+Domain clean on Yandex (via Sophos): iamafoodblog.com
+Domain clean by ESET: iamafoodblog.com
+
+Website Details:
+Scan for: http://iamafoodblog.com
+Hostname: iamafoodblog.com
+IP address: 184.168.47.225 (GoDaddy)
+System Details:
+Web application details:
+Application: WordPress 4.2.2 - http://www.wordpress.org
+Web application version:
+WordPress version:  WordPress 4.2.2
+Wordpress version from source: 4.2.2
+Wordpress Version 4.2 based on: http://iamafoodblog.com/wp-admin/js/common.js
+WordPress directory:  http://iamafoodblog.com/wp-content
+WordPress theme:  http://iamafoodblog.com/wp-content/themes/iamafoodblog2015/
+Wordpress internal path: /home/content/p3pnexwpnas06_data02/55/2420655/html/wp-content/themes/iamafoodblog2015/index.php
+
+List of Links Found to Other Domains or Sub Domains:
+
+List of Scripts Included:
+http://iamafoodblog.com/wp-content/themes/iamafoodblog2015/assets/iamafoodblog.js
+http://ib.3lift.com/ttj?inv_code=iamafoodblog_main_feed
+http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js
+
+
+                            GOOGLE PAGESPEED INSIGHTS RESULTS
+
+PageSpeed score: 62 / 100
+
+Page stats:
+otherResponseBytes: 70629
+totalRequestBytes: 4937
+numberCssResources: 2
+javascriptResponseBytes: 343886
+cssResponseBytes: 52691
+imageResponseBytes: 1464244
+numberResources: 35
+numberHosts: 12
+numberStaticResources: 23
+htmlResponseBytes: 45839
+numberJsResources: 6
+
+Rules negatively impacting score:
+Minify HTML: 0.0
+Eliminate render-blocking JavaScript and CSS in above-the-fold content: 6.0
+Enable compression: 0.0
+Reduce server response time: 0.0
+Minify CSS: 0.1374
+Leverage browser caching: 1.421875
+Avoid landing page redirects: 0.0
+Optimize images: 55.6804
+Prioritize visible content: 0.0
+Minify JavaScript: 0.0
+
+
+                              W3 MARKUP VALIDATION RESULTS
+
+errorcount: 114
+
+(error) Line 2: Column 2.  there is no attribute "prefix"
+(error) Line 6: Column 6.  end tag for "link" omitted, but OMITTAG NO was specified
+(info) Line 6: Column 6.  start tag was here
+(error) Line 13: Column 13.  there is no attribute "property"
+(info) Line 23: Column 23.  character "&amp;" is the first character of a delimiter but  ...
+(info) Line 23: Column 23.  cannot generate system identifier for general entity "c.getC ...
+(error) Line 23: Column 23.  general entity "c.getContext" not defined and no default ent ...
+(info) Line 23: Column 23.  reference not terminated by REFC delimiter
+(error) Line 23: Column 23.  reference to entity "c.getContext" for which no system ident ...
+(info) Line 23: Column 23.  entity was defined here
+(More than 10 results.  Displayed first 10.)
+
+
+                               W3 CSS3 VALIDATION RESULTS
+
+
+errorcount: 35
+warningcount: 108
+
+Source: http://iamafoodblog.com/wp-content/themes/iamafoodblog2015/style.css?v=20150415
+(error) Line 44.  Parse Error
+(error) Line 45.  Parse Error
+(error) Line 181.  Property pointer-events doesn't exist : 
+(error) Line 185.  Property fill doesn't exist : 
+(error) Line 204.  Property fill doesn't exist : 
+(error) Line 207.  Property fill doesn't exist : 
+(error) Line 227.  Property fill doesn't exist : 
+(error) Line 301.  Property fill doesn't exist : 
+(error) Line 304.  Property fill doesn't exist : 
+(error) Line 464.  Property fill doesn't exist : 
+(More than 10 results.  Displayed first 10.)
+
+
+www.amazon.com
+______________
+
+                                  WOT SCORECARD RESULTS
+
+Server location: Global
+Trustworthiness: Excellent
+Child safety: Excellent
+
+
+                           SUCURI SECURITY SITE CHECK RESULTS
+
+Scan Results:
+Malware: Not Detected (Low Risk)
+Website Blacklisting: Not Detected (Low Risk)
+Injected SPAM: Not Detected (Low Risk)
+Defacements: Not Detected (Low Risk)
+
+Blacklist Results:
+Domain clean by Google Safe Browsing: amazon.com
+Domain clean by Norton Safe Web: amazon.com
+Domain clean on Phish tank: amazon.com
+Domain clean on the Opera browser: amazon.com
+Domain clean by SiteAdvisor: amazon.com
+Domain clean by the Sucuri Malware Labs blacklist: amazon.com
+Domain clean on SpamHaus DBL: amazon.com
+Domain clean by Bitdefender: amazon.com
+Domain clean on Yandex (via Sophos): amazon.com
+Domain clean by ESET: amazon.com
+
+Website Details:
+Scan for: http://www.amazon.com
+Hostname: www.amazon.com
+IP address: 176.32.98.166
+System Details:
+Running on: Server
+
+List of Links Found to Other Domains or Sub Domains:
+http://services.amazon.com/content/product-ads-on-amazon.htm/ref=footer_pads?ld=AZPADSFooter
+http://aws.amazon.com/what-is-cloud-computing/?sc_channel=EL&amp;sc_campaign=amazonfooter
+
+List of Scripts Included:
+
+
+                            GOOGLE PAGESPEED INSIGHTS RESULTS
+
+PageSpeed score: 82 / 100
+
+Page stats:
+otherResponseBytes: 14473
+totalRequestBytes: 48349
+numberCssResources: 5
+javascriptResponseBytes: 877511
+cssResponseBytes: 223287
+imageResponseBytes: 5626196
+numberResources: 247
+numberHosts: 33
+numberStaticResources: 185
+htmlResponseBytes: 441051
+numberJsResources: 30
+
+Rules negatively impacting score:
+Minify HTML: 0.5652
+Eliminate render-blocking JavaScript and CSS in above-the-fold content: 8.0
+Enable compression: 1.363
+Reduce server response time: 0.0
+Minify CSS: 0.0
+Leverage browser caching: 6.99661954365
+Avoid landing page redirects: 0.0
+Optimize images: 1.7063
+Prioritize visible content: 0.0
+Minify JavaScript: 0.7166
+
+
+                              W3 MARKUP VALIDATION RESULTS
+
+errorcount: 1001
+
+(error) Line 76: Column 76.  A charset attribute on a meta element found after the first  ...
+(error) Line 123: Column 123.  Bad value x-dns-prefetch-control for attribute http-equiv on ...
+(error) Line 133: Column 133.  Bad value https://images-na.ssl-images-amazon.com/images/I/0 ...
+(error) Line 216: Column 216.  Internal encoding declaration iso-8859-1 disagrees with the  ...
+(error) Line 216: Column 216.  Bad value text/html; charset=iso-8859-1 for attribute conten ...
+(error) Line 220: Column 220.  Attribute value not allowed on element meta at this point.
+(error) Line 220: Column 220.  Element meta is missing one or more of the following attribu ...
+(error) Line 221: Column 221.  Attribute value not allowed on element meta at this point.
+(error) Line 221: Column 221.  Element meta is missing one or more of the following attribu ...
+(error) Line 222: Column 222.  Attribute xmlns:og not allowed here.
+(More than 10 results.  Displayed first 10.)
+
+
+                               W3 CSS3 VALIDATION RESULTS
+
+
+errorcount: 126
+warningcount: 253
+
+Source: http://z-ecx.images-amazon.com/images/G/01/AUIClients/NavAuiBeaconbeltAssets-0d66c14ef4564baea0c908fb3005412f165d9971.min._V2_.css
+(error) Line 1.  Property zoom doesn't exist : 
+(error) Line 1.  Unknown dimension
+(error) Line 1.  Unknown dimension
+(error) Line 1.  Unknown dimension
+(error) Line 1.  Parse Error
+(error) Line 1.  Unknown dimension
+(error) Line 1.  attempt to find a semi-colon before the property name. add i ...
+(error) Line 1.  Property progid doesn't exist : 
+(error) Line 1.  Parse Error
+(error) Line 1.  Unknown pseudo-element or pseudo-class :linear-gradient
+(More than 10 results.  Displayed first 10.)
+
+
+games-workshop.com
+__________________
+
+                                  WOT SCORECARD RESULTS
+
+Server location: United States
+Trustworthiness: Excellent
+Child safety: Excellent
+
+
+                           SUCURI SECURITY SITE CHECK RESULTS
+
+Scan Results:
+Malware: Not Detected (Low Risk)
+Website Blacklisting: Not Detected (Low Risk)
+Injected SPAM: Not Detected (Low Risk)
+Defacements: Not Detected (Low Risk)
+
+Blacklist Results:
+Domain clean by Google Safe Browsing: games-workshop.com
+Domain clean by Norton Safe Web: games-workshop.com
+Domain clean on Phish tank: games-workshop.com
+Domain clean on the Opera browser: games-workshop.com
+Domain clean by SiteAdvisor: games-workshop.com
+Domain clean by the Sucuri Malware Labs blacklist: games-workshop.com
+Domain clean on SpamHaus DBL: games-workshop.com
+Domain clean by Bitdefender: games-workshop.com
+Domain clean on Yandex (via Sophos): games-workshop.com
+Domain clean by ESET: games-workshop.com
+
+Website Details:
+Scan for: http://games-workshop.com
+Hostname: games-workshop.com
+IP address: 209.135.50.160 (CloudFlare)
+System Details:
+Running on: cloudflare-nginx
+
+List of Links Found to Other Domains or Sub Domains:
+http://warhammerworld.games-workshop.com/
+http://investor.games-workshop.com/
+http://careers.games-workshop.com/
+http://trade.games-workshop.com/?page_id=905 
+http://licensing.games-workshop.com
+
+List of Scripts Included:
+/combined.js.h-1817722772.pack
+/combined.js.h-162843090.pack
+/combined.js.h2095325019.pack
+/combined.js.h1170549577.pack
+/combined.js.h-1158984957.pack
+
+
+                            GOOGLE PAGESPEED INSIGHTS RESULTS
+
+PageSpeed score: 70 / 100
+
+Page stats:
+otherResponseBytes: 32091
+totalRequestBytes: 9559
+numberCssResources: 3
+javascriptResponseBytes: 739871
+cssResponseBytes: 227695
+imageResponseBytes: 2980622
+numberResources: 89
+numberHosts: 10
+numberStaticResources: 80
+htmlResponseBytes: 45356
+numberJsResources: 14
+
+Rules negatively impacting score:
+Minify HTML: 0.0
+Eliminate render-blocking JavaScript and CSS in above-the-fold content: 4.0
+Enable compression: 0.0
+Reduce server response time: 0.0
+Minify CSS: 0.0
+Leverage browser caching: 35.2967815807
+Avoid landing page redirects: 3.0
+Optimize images: 0.1317
+Prioritize visible content: 0.0
+Minify JavaScript: 0.8035
+
+
+                              W3 MARKUP VALIDATION RESULTS
+
+errorcount: 138
+
+(error) Line 10: Column 10.  A meta element with an http-equiv attribute whose value is X ...
+(error) Line 17: Column 17.  Bad value cleartype for attribute http-equiv on element meta ...
+(error) Line 18: Column 18.  The charset attribute on the link element is obsolete. Use a ...
+(error) Line 19: Column 19.  The charset attribute on the link element is obsolete. Use a ...
+(error) Line 20: Column 20.  The charset attribute on the link element is obsolete. Use a ...
+(error) Line 58: Column 58.  Stray end tag a.
+(info) Line 63: Column 63.  Section lacks heading. Consider using h2-h6 elements to add  ...
+(error) Line 113: Column 113.  Stray end tag input.
+(error) Line 113: Column 113.  Stray end tag input.
+(error) Line 117: Column 117.  Any input descendant of a label element with a for attribute ...
+(More than 10 results.  Displayed first 10.)
+
+
+                               W3 CSS3 VALIDATION RESULTS
+
+
+errorcount: 111
+warningcount: 155
+
+Source: http://www.games-workshop.com/combined.css.h-1903264221.pack
+(error) Line 1.  Parse Error
+(error) Line 1.  Parse Error
+(error) Line 1.  Parse Error
+(error) Line 1.  Parse Error
+(error) Line 1.  Parse Error
+(error) Line 1.  Parse Error
+(error) Line 1.  Parse Error
+(error) Line 1.  Parse Error
+(error) Line 1.  Parse Error
+(error) Line 1.  Parse Error
+(More than 10 results.  Displayed first 10.)
+

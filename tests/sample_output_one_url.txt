@@ -1,0 +1,110 @@
+
+apple.com
+_________
+
+                                  WOT SCORECARD RESULTS
+
+Server location: United States
+Trustworthiness: Excellent
+Child safety: Excellent
+
+
+                           SUCURI SECURITY SITE CHECK RESULTS
+
+Scan Results:
+Malware: Not Detected (Low Risk)
+Website Blacklisting: Not Detected (Low Risk)
+Injected SPAM: Not Detected (Low Risk)
+Defacements: Not Detected (Low Risk)
+
+Blacklist Results:
+Domain clean by Google Safe Browsing: apple.com
+Domain clean by Norton Safe Web: apple.com
+Domain clean on Phish tank: apple.com
+Domain clean on the Opera browser: apple.com
+Domain clean by SiteAdvisor: apple.com
+Domain clean by the Sucuri Malware Labs blacklist: apple.com
+Domain clean on SpamHaus DBL: apple.com
+Domain clean by Bitdefender: apple.com
+Domain clean on Yandex (via Sophos): apple.com
+Domain clean by ESET: apple.com
+
+Website Details:
+Scan for: http://www.apple.com/
+Hostname: www.apple.com
+IP address: 17.142.160.59
+System Details:
+Running on: Apache
+
+List of Links Found to Other Domains or Sub Domains:
+http://store.apple.com/us
+
+List of Scripts Included:
+/v/home/bx/scripts/head.built.js
+http://images.apple.com/ac/globalheader/1.1/scripts/globalheader.js
+http://images.apple.com/metrics/ac-analytics/0.2/scripts/ac-analytics.js
+/v/home/bx/scripts/home.built.js
+
+
+                            GOOGLE PAGESPEED INSIGHTS RESULTS
+
+PageSpeed score: 78 / 100
+
+Page stats:
+otherResponseBytes: 1304
+totalRequestBytes: 4739
+numberCssResources: 5
+javascriptResponseBytes: 540933
+cssResponseBytes: 465919
+imageResponseBytes: 296916
+numberResources: 41
+numberHosts: 4
+numberStaticResources: 37
+htmlResponseBytes: 12066
+numberJsResources: 4
+
+Rules negatively impacting score:
+Minify HTML: 0.0
+Eliminate render-blocking JavaScript and CSS in above-the-fold content: 10.0
+Enable compression: 1.0697
+Reduce server response time: 0.0
+Minify CSS: 0.1416
+Leverage browser caching: 14.9681018519
+Avoid landing page redirects: 0.0
+Optimize images: 0.1401
+Prioritize visible content: 0.0
+Minify JavaScript: 0.441
+
+
+                              W3 MARKUP VALIDATION RESULTS
+
+errorcount: 7
+
+(error) Line 20: Column 20.  A meta element with an http-equiv attribute whose value is X ...
+(info) Line 107: Column 107.  Consider using the h1 element as a top-level heading only (a ...
+(info) Line 153: Column 153.  Consider using the h1 element as a top-level heading only (a ...
+(info) Line 199: Column 199.  Consider using the h1 element as a top-level heading only (a ...
+(info) Line 245: Column 245.  Consider using the h1 element as a top-level heading only (a ...
+(info) Line 291: Column 291.  Consider using the h1 element as a top-level heading only (a ...
+(info) Line 89: Column 89.  Article lacks heading. Consider using h2-h6 elements to add  ...
+
+
+                               W3 CSS3 VALIDATION RESULTS
+
+
+errorcount: 774
+warningcount: 122
+
+Source: http://images.apple.com/ac/globalheader/1.1/styles/globalheader.css
+(error) Line 178.  distribute-all-lines is not a text-justify value : 
+(error) Line 194.  Property zoom doesn't exist : 
+(error) Line 223.  Parse Error
+(error) Line 227.  Parse Error
+(error) Line 261.  0 is not a transition value : 
+(error) Line 289.  Parse Error
+(error) Line 302.  Unknown dimension
+(error) Line 311.  Parse Error
+(error) Line 312.  Parse Error
+(error) Line 313.  Parse Error
+(More than 10 results.  Displayed first 10.)
+
