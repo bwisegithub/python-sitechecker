@@ -88,6 +88,19 @@ or
 
 # Tests
 
-To run the test suite please follow these steps:
+To run the `tests` module:
 
-* (TODO)
+    cd [path to tests.py]
+    chmod +x tests.py
+    ./tests.py
+
+Sample output:
+
+    mycomputer:tests me$ ./tests.py
+    ..............
+    ----------------------------------------------------------------------
+    Ran 14 tests in 122.605s
+
+    OK
+    mycomputer:tests me$ 
+
