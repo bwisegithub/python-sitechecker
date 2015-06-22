@@ -1,4 +1,4 @@
-""" Contains SiteChecker class module
+""" Contains SiteChecker class
 """
 import abc
 import json
@@ -23,9 +23,9 @@ class SiteChecker:
     """
     __metaclass__ = abc.ABCMeta
 
-    PAGE_WIDTH = 80
-    MAX_MSG_LENGTH = 60
-    MAX_RESULTS_TO_DISPLAY = 10
+    _PAGE_WIDTH = 80
+    _MAX_MSG_LENGTH = 60
+    _MAX_RESULTS_TO_DISPLAY = 10
 
     def __init__(self, name, base_url, get_or_post):
         """  Initialize an instance of the class.
@@ -71,8 +71,8 @@ class SiteChecker:
         of results has been exceeded and how many results were displayed.
         """
         print '(More than {} results.  Displayed first {}.)'.\
-            format(SiteChecker.MAX_RESULTS_TO_DISPLAY, SiteChecker.\
-                MAX_RESULTS_TO_DISPLAY)
+            format(SiteChecker._MAX_RESULTS_TO_DISPLAY, SiteChecker.\
+                _MAX_RESULTS_TO_DISPLAY)
 
     def process_url(self, url_to_check):
         """ Process URL by:
@@ -118,7 +118,7 @@ class SiteChecker:
         """
         print
         # Center the heading
-        print '{}{} RESULTS'.format((SiteChecker.PAGE_WIDTH/2-len(self.name)\
+        print '{}{} RESULTS'.format((SiteChecker._PAGE_WIDTH/2-len(self.name)\
             /2) * ' ', self.name)
         print
 
@@ -222,7 +222,7 @@ class SucuriChecker(SiteChecker):
                                 replace('www.', '').\
                                 startswith(url_to_check.replace('www.', '')):
                             line_cnt += 1
-                            if line_cnt < SiteChecker.MAX_RESULTS_TO_DISPLAY:
+                            if line_cnt < SiteChecker._MAX_RESULTS_TO_DISPLAY:
                                 print line
                             else:
                                 SiteChecker._display_max_results_exceeded()
@@ -237,7 +237,7 @@ class SucuriChecker(SiteChecker):
                     line_cnt = 0
                     for line in collapse_three_lines:
                         line_cnt += 1
-                        if line_cnt < SiteChecker.MAX_RESULTS_TO_DISPLAY:
+                        if line_cnt < SiteChecker._MAX_RESULTS_TO_DISPLAY:
                             print line
                         else:
                             SiteChecker._display_max_results_exceeded()
@@ -331,13 +331,13 @@ class W3MarkupChecker(SiteChecker):
                 last_column = ''
                 for i in soup_dict['messages']:
                     message = i['message']
-                    if len(message) > SiteChecker.MAX_MSG_LENGTH:
+                    if len(message) > SiteChecker._MAX_MSG_LENGTH:
                         message = '{} ...'.format(message[:SiteChecker.\
-                            MAX_MSG_LENGTH])
+                            _MAX_MSG_LENGTH])
                     if message != 'This interface to HTML5 document checking '\
                             'is deprecated.':
                         err_cnt += 1
-                        if err_cnt <= SiteChecker.MAX_RESULTS_TO_DISPLAY:
+                        if err_cnt <= SiteChecker._MAX_RESULTS_TO_DISPLAY:
                             last_line = i['lastLine'] if 'lastLine' in \
                                 i.keys() else ''
                             last_column = i['lastLine'] if 'lastColumn' in \
@@ -394,7 +394,7 @@ class W3CssChecker(SiteChecker):
                     source = ''
                     for i in soup_dict['cssvalidation']['errors']:
                         err_cnt += 1
-                        if err_cnt <= SiteChecker.MAX_RESULTS_TO_DISPLAY:
+                        if err_cnt <= SiteChecker._MAX_RESULTS_TO_DISPLAY:
                             source = i['source']
                             if source != last_source:
                                 if err_cnt != 1:
@@ -402,10 +402,10 @@ class W3CssChecker(SiteChecker):
                                 print 'Source: {}'.format(source)
 
                             message = i['message']
-                            if len(message) > SiteChecker.MAX_MSG_LENGTH:
+                            if len(message) > SiteChecker._MAX_MSG_LENGTH:
                                 message = '{} ...'.\
                                     format(message[:SiteChecker.\
-                                        MAX_MSG_LENGTH])
+                                        _MAX_MSG_LENGTH])
 
                             line = i['line'] if 'line' in i.keys() else ''
                             print '(error) Line {}.  {}'.format(line, message)
