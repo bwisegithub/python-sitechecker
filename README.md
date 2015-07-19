@@ -48,7 +48,6 @@ Tool for checking security, page speed, and code validation for URL(s)
      - WOT SCORECARD
      - SUCURI SECURITY SITE CHECK
      - GOOGLE PAGESPEED INSIGHTS
-     - W3 MARKUP VALIDATION
      - W3 CSS3 VALIDATION
     
     optional arguments:
@@ -99,7 +98,7 @@ Sample output:
     mycomputer:tests me$ ./tests.py
     ..............
     ----------------------------------------------------------------------
-    Ran 14 tests in 122.605s
+    Ran 14 tests in 108.827s
 
     OK
     mycomputer:tests me$ 

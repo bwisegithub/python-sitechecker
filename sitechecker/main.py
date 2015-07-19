@@ -9,7 +9,6 @@ Output (per URL):
  - WOT SCORECARD
  - SUCURI SECURITY SITE CHECK
  - GOOGLE PAGESPEED INSIGHTS
- - W3 MARKUP VALIDATION
  - W3 CSS3 VALIDATION
 
 optional arguments:
@@ -41,8 +40,9 @@ CHECKER_DICT = {
     3: [checker.GoogleChecker, 'GOOGLE PAGESPEED INSIGHTS',
         'https://www.googleapis.com/pagespeedonline/v1/runPagespeed?url='\
         'http://', 'GET'],
-    4: [checker.W3MarkupChecker, 'W3 MARKUP VALIDATION',
-        'http://validator.w3.org/check?output=json&uri=http%3A%2F%2F', 'GET'],
+    # See github issue #3:
+    # 4: [checker.W3MarkupChecker, 'W3 MARKUP VALIDATION',
+    #    'http://validator.w3.org/check?output=json&uri=http%3A%2F%2F', 'GET'],
     5: [checker.W3CssChecker, 'W3 CSS3 VALIDATION',
         'http://jigsaw.w3.org/css-validator/validator?output=json&uri=', 'GET']
 }

@@ -15,7 +15,7 @@ with open(path.join(THIS_PATH, 'README.md'), encoding='utf-8') as f:
 
 setup(
     name='python-sitechecker',
-    version='1.0.0',
+    version='1.0.1',
     description='Tool for checking security, page speed, and code '\
         'validation for URL(s)',
     long_description=THIS_LONG_DESCRIPTION,
@@ -31,7 +31,7 @@ setup(
     ],
     keywords='wot, sucuri, google pagespeed, w3 validation, '\
         'site reputation, server location, site security, malware scan, '\
-        'external links, markup validation, css validation',
+        'external links, css validation',
     install_requires=['BeautifulSoup4', 'requests', 'requests[security]'],
     packages=find_packages(exclude=['tests']),
     zip_safe=True
