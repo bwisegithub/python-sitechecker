@@ -13,6 +13,7 @@ Tool for checking security, page speed, and code validation for URL(s)
     - [Sample Usage #2 (file containing multiple URLs)](#sample-usage-2-file-containing-multiple-urls)
     - [Sample Output](#sample-output)
 - [Tests](#tests)
+- [Keywords](#keywords)
 
 # Dependencies
 
