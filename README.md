@@ -103,3 +103,13 @@ Sample output:
     OK
     mycomputer:tests me$ 
 
+# Keywords
+python, python installer, python unittest
+
+beautifulsoup, web scraping
+
+google pagespeed insights api, w3 css validator web service api, json
+
+web admin tools, web developer tools, security, page speed insights, code validation
+
+
